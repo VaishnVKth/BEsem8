@@ -1,2 +1,3 @@
 # BEsem8
-Practical codes
+HPC openmp command-> g++ filename.cpp -lgomp -o filename
+-> ./filename
